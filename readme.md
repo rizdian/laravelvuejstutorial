@@ -62,3 +62,7 @@ https://github.com/rizdian/laravelvuejstutorial
 5.    Run this command: php artisan migrate
 6.    Then run this command: npm run dev
 7.    Next type this command: php artisan serve. It will start the server at this URL: http://localhost:8000
+
+---
+
+Source : https://appdividend.com/2017/08/05/laravel-vuejs-tutorial/
